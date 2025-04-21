@@ -1,0 +1,557 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		DB932A9F2DB6B65800B4160E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DB932A862DB6B65600B4160E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DB932A8D2DB6B65600B4160E;
+			remoteInfo = "Coding Journal 2 - Core ML";
+		};
+		DB932AA92DB6B65800B4160E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DB932A862DB6B65600B4160E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DB932A8D2DB6B65600B4160E;
+			remoteInfo = "Coding Journal 2 - Core ML";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		DB932A8E2DB6B65600B4160E /* Coding Journal 2 - Core ML.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Coding Journal 2 - Core ML.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DB932A9E2DB6B65800B4160E /* Coding Journal 2 - Core MLTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Coding Journal 2 - Core MLTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DB932AA82DB6B65800B4160E /* Coding Journal 2 - Core MLUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Coding Journal 2 - Core MLUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		DB932A902DB6B65600B4160E /* Coding Journal 2 - Core ML */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Coding Journal 2 - Core ML";
+			sourceTree = "<group>";
+		};
+		DB932AA12DB6B65800B4160E /* Coding Journal 2 - Core MLTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Coding Journal 2 - Core MLTests";
+			sourceTree = "<group>";
+		};
+		DB932AAB2DB6B65800B4160E /* Coding Journal 2 - Core MLUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Coding Journal 2 - Core MLUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DB932A8B2DB6B65600B4160E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DB932A9B2DB6B65800B4160E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DB932AA52DB6B65800B4160E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DB932A852DB6B65600B4160E = {
+			isa = PBXGroup;
+			children = (
+				DB932A902DB6B65600B4160E /* Coding Journal 2 - Core ML */,
+				DB932AA12DB6B65800B4160E /* Coding Journal 2 - Core MLTests */,
+				DB932AAB2DB6B65800B4160E /* Coding Journal 2 - Core MLUITests */,
+				DB932A8F2DB6B65600B4160E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DB932A8F2DB6B65600B4160E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DB932A8E2DB6B65600B4160E /* Coding Journal 2 - Core ML.app */,
+				DB932A9E2DB6B65800B4160E /* Coding Journal 2 - Core MLTests.xctest */,
+				DB932AA82DB6B65800B4160E /* Coding Journal 2 - Core MLUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DB932A8D2DB6B65600B4160E /* Coding Journal 2 - Core ML */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DB932AB22DB6B65800B4160E /* Build configuration list for PBXNativeTarget "Coding Journal 2 - Core ML" */;
+			buildPhases = (
+				DB932A8A2DB6B65600B4160E /* Sources */,
+				DB932A8B2DB6B65600B4160E /* Frameworks */,
+				DB932A8C2DB6B65600B4160E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				DB932A902DB6B65600B4160E /* Coding Journal 2 - Core ML */,
+			);
+			name = "Coding Journal 2 - Core ML";
+			packageProductDependencies = (
+			);
+			productName = "Coding Journal 2 - Core ML";
+			productReference = DB932A8E2DB6B65600B4160E /* Coding Journal 2 - Core ML.app */;
+			productType = "com.apple.product-type.application";
+		};
+		DB932A9D2DB6B65800B4160E /* Coding Journal 2 - Core MLTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DB932AB52DB6B65800B4160E /* Build configuration list for PBXNativeTarget "Coding Journal 2 - Core MLTests" */;
+			buildPhases = (
+				DB932A9A2DB6B65800B4160E /* Sources */,
+				DB932A9B2DB6B65800B4160E /* Frameworks */,
+				DB932A9C2DB6B65800B4160E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DB932AA02DB6B65800B4160E /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				DB932AA12DB6B65800B4160E /* Coding Journal 2 - Core MLTests */,
+			);
+			name = "Coding Journal 2 - Core MLTests";
+			packageProductDependencies = (
+			);
+			productName = "Coding Journal 2 - Core MLTests";
+			productReference = DB932A9E2DB6B65800B4160E /* Coding Journal 2 - Core MLTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		DB932AA72DB6B65800B4160E /* Coding Journal 2 - Core MLUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DB932AB82DB6B65800B4160E /* Build configuration list for PBXNativeTarget "Coding Journal 2 - Core MLUITests" */;
+			buildPhases = (
+				DB932AA42DB6B65800B4160E /* Sources */,
+				DB932AA52DB6B65800B4160E /* Frameworks */,
+				DB932AA62DB6B65800B4160E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DB932AAA2DB6B65800B4160E /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				DB932AAB2DB6B65800B4160E /* Coding Journal 2 - Core MLUITests */,
+			);
+			name = "Coding Journal 2 - Core MLUITests";
+			packageProductDependencies = (
+			);
+			productName = "Coding Journal 2 - Core MLUITests";
+			productReference = DB932AA82DB6B65800B4160E /* Coding Journal 2 - Core MLUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DB932A862DB6B65600B4160E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					DB932A8D2DB6B65600B4160E = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					DB932A9D2DB6B65800B4160E = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = DB932A8D2DB6B65600B4160E;
+					};
+					DB932AA72DB6B65800B4160E = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = DB932A8D2DB6B65600B4160E;
+					};
+				};
+			};
+			buildConfigurationList = DB932A892DB6B65600B4160E /* Build configuration list for PBXProject "Coding Journal 2 - Core ML" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = DB932A852DB6B65600B4160E;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = DB932A8F2DB6B65600B4160E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DB932A8D2DB6B65600B4160E /* Coding Journal 2 - Core ML */,
+				DB932A9D2DB6B65800B4160E /* Coding Journal 2 - Core MLTests */,
+				DB932AA72DB6B65800B4160E /* Coding Journal 2 - Core MLUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		DB932A8C2DB6B65600B4160E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DB932A9C2DB6B65800B4160E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DB932AA62DB6B65800B4160E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DB932A8A2DB6B65600B4160E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DB932A9A2DB6B65800B4160E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DB932AA42DB6B65800B4160E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		DB932AA02DB6B65800B4160E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DB932A8D2DB6B65600B4160E /* Coding Journal 2 - Core ML */;
+			targetProxy = DB932A9F2DB6B65800B4160E /* PBXContainerItemProxy */;
+		};
+		DB932AAA2DB6B65800B4160E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DB932A8D2DB6B65600B4160E /* Coding Journal 2 - Core ML */;
+			targetProxy = DB932AA92DB6B65800B4160E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		DB932AB02DB6B65800B4160E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		DB932AB12DB6B65800B4160E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DB932AB32DB6B65800B4160E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Coding Journal 2 - Core ML/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "TAMU.Coding-Journal-2---Core-ML";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		DB932AB42DB6B65800B4160E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Coding Journal 2 - Core ML/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "TAMU.Coding-Journal-2---Core-ML";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		DB932AB62DB6B65800B4160E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "TAMU.Coding-Journal-2---Core-MLTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Coding Journal 2 - Core ML.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Coding Journal 2 - Core ML";
+			};
+			name = Debug;
+		};
+		DB932AB72DB6B65800B4160E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "TAMU.Coding-Journal-2---Core-MLTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Coding Journal 2 - Core ML.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Coding Journal 2 - Core ML";
+			};
+			name = Release;
+		};
+		DB932AB92DB6B65800B4160E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "TAMU.Coding-Journal-2---Core-MLUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Coding Journal 2 - Core ML";
+			};
+			name = Debug;
+		};
+		DB932ABA2DB6B65800B4160E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "TAMU.Coding-Journal-2---Core-MLUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Coding Journal 2 - Core ML";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DB932A892DB6B65600B4160E /* Build configuration list for PBXProject "Coding Journal 2 - Core ML" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DB932AB02DB6B65800B4160E /* Debug */,
+				DB932AB12DB6B65800B4160E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DB932AB22DB6B65800B4160E /* Build configuration list for PBXNativeTarget "Coding Journal 2 - Core ML" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DB932AB32DB6B65800B4160E /* Debug */,
+				DB932AB42DB6B65800B4160E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DB932AB52DB6B65800B4160E /* Build configuration list for PBXNativeTarget "Coding Journal 2 - Core MLTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DB932AB62DB6B65800B4160E /* Debug */,
+				DB932AB72DB6B65800B4160E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DB932AB82DB6B65800B4160E /* Build configuration list for PBXNativeTarget "Coding Journal 2 - Core MLUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DB932AB92DB6B65800B4160E /* Debug */,
+				DB932ABA2DB6B65800B4160E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DB932A862DB6B65600B4160E /* Project object */;
+}
