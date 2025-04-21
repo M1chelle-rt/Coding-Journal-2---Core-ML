@@ -423,4 +423,4 @@ func analyzeDrawingShape(_ image: UIImage, completion: @escaping ([VNRectangleOb
         completion(nil, nil)
     }
 }
-
+}
